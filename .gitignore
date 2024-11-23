@@ -1,0 +1,5 @@
+.env
+pandasai.log
+cache/cache_db_0.11.db
+wiki_movie_plots_deduped.csv
+cache/cache_db_0.11.db.wal
